@@ -1,3 +1,10 @@
+# [1.0.0-rc.2](https://github.com/amitdotnet/sematic-release-sample/compare/v1.0.0-rc.1...v1.0.0-rc.2) (2025-06-26)
+
+
+### Features
+
+* new style added ([dc3dcd5](https://github.com/amitdotnet/sematic-release-sample/commit/dc3dcd5324550af085cbd7365d781cbc1f0c5319))
+
 # 1.0.0-rc.1 (2025-06-25)
 
 
